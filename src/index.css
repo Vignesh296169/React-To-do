@@ -13,9 +13,7 @@ body {
   text-align: center;
   background-color: aquamarine; 
   
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  text-align: center;
 }
 
 .bye{
