@@ -2,7 +2,7 @@
     display:none;
   }
  .first{
-    width: min-content;
+     overflow: hidden;
      font-style:oblique;
      color: blueviolet;
      font-size: large;
