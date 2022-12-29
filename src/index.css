@@ -13,9 +13,7 @@ body {
   padding: 0;
   text-align: center;
   background-color: aquamarine; 
- display: flex;
- justify-content: center;
- min-height: fit-content;
+ 
 }
 
 .bye{
