@@ -15,6 +15,7 @@ body {
   background-color: aquamarine; 
  display: flex;
  justify-content: center;
+ min-height: fit-content;
 }
 
 .bye{
