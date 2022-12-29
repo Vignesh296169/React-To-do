@@ -1,0 +1,10 @@
+.result{
+    display:none;
+  }
+ .first{
+   
+     font-style:oblique;
+     color: blueviolet;
+     font-size: large;
+     text-shadow: 1px 1px black;
+ }
